@@ -1,0 +1,9 @@
+span{
+    background-color: coral;
+    display: block;
+    color: navajowhite;
+    height: 3em;
+    box-sizing: border-box;
+    padding: 10px 10px;
+    font-weight:bolder
+}

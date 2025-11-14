@@ -1,0 +1,11 @@
+body{
+  background-color: navajowhite;
+}
+div{
+  color:coral;
+  background-color: navajowhite;
+  padding-bottom: 20px;
+} 
+div>h1{
+  color: rgb(21, 129, 129);
+}
