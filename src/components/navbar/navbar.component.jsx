@@ -2,8 +2,9 @@ import "./navbar.styles.css"
 
 const Navbar = () =>{
     return(
-    <div>
-        <span>This is the navbar</span>
+    <div id="navbar">
+        <span>Menu</span>
+        <span>Profile</span>
     </div>)
 }
 
